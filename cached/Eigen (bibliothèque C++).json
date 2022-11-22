@@ -1,0 +1,22 @@
+{
+    "title": "Eigen (biblioth\u00e8que C++)",
+    "summary": "Eigen est une biblioth\u00e8que d'analyse num\u00e9rique en C++ compos\u00e9e d'ent\u00eates de templates, d\u00e9velopp\u00e9e par Beno\u00eet Jacob et \nGa\u00ebl Guennebaud \u00e0 l'INRIA. C'est un logiciel libre sous licence MPL2 et multiplate-formes.\nElle comporte des outils d'alg\u00e8bre lin\u00e9aire, comme des op\u00e9rations matricielles et vectorielles.\nEigen permet l'utilisation d'allocation m\u00e9moire statique ou dynamique pour ses matrices et un nombre important de solveurs de matrice creuse.\nLa biblioth\u00e8que est optimis\u00e9e pour diff\u00e9rents SIMD, tels que  SSE 2/3/4 pour architectures Intel, ARM NEON pour architecture ARM (depuis sa version 2) ou encore AltiVec pour architecture Power.\nIl existe un binding en Haskell pour cette biblioth\u00e8queUn nombre important de projets utilisent cette biblioth\u00e8que ou \u00e9tendent ses fonctionnalit\u00e9s parmi lesquelles des applications scientifiques, de robotique, d'ing\u00e9nierie, d'infographie, de reconnaissance, mobiles, ou encore de bureautique.",
+    "content": "Eigen est une biblioth\u00e8que d'analyse num\u00e9rique en C++ compos\u00e9e d'ent\u00eates de templates, d\u00e9velopp\u00e9e par Beno\u00eet Jacob et \nGa\u00ebl Guennebaud \u00e0 l'INRIA. C'est un logiciel libre sous licence MPL2 et multiplate-formes.\nElle comporte des outils d'alg\u00e8bre lin\u00e9aire, comme des op\u00e9rations matricielles et vectorielles.\nEigen permet l'utilisation d'allocation m\u00e9moire statique ou dynamique pour ses matrices et un nombre important de solveurs de matrice creuse.\nLa biblioth\u00e8que est optimis\u00e9e pour diff\u00e9rents SIMD, tels que  SSE 2/3/4 pour architectures Intel, ARM NEON pour architecture ARM (depuis sa version 2) ou encore AltiVec pour architecture Power.\nIl existe un binding en Haskell pour cette biblioth\u00e8queUn nombre important de projets utilisent cette biblioth\u00e8que ou \u00e9tendent ses fonctionnalit\u00e9s parmi lesquelles des applications scientifiques, de robotique, d'ing\u00e9nierie, d'infographie, de reconnaissance, mobiles, ou encore de bureautique.\n\n\n== Notes et r\u00e9f\u00e9rences ==\n\n\n== Annexes ==\n\n\n=== Liens externes ===\nSite officiel : http://eigen.tuxfamily.org/ Portail de l\u2019informatique   Portail des math\u00e9matiques   Portail des logiciels libres",
+    "categories": [
+        "Cat\u00e9gorie:Analyse num\u00e9rique",
+        "Cat\u00e9gorie:Article utilisant une Infobox",
+        "Cat\u00e9gorie:Logiciel libre sous licence MPL",
+        "Cat\u00e9gorie:Page utilisant P306",
+        "Cat\u00e9gorie:Page utilisant des donn\u00e9es de Wikidata \u00e0 traduire de l'anglais",
+        "Cat\u00e9gorie:Portail:Informatique/Articles li\u00e9s",
+        "Cat\u00e9gorie:Portail:Logiciel/Articles li\u00e9s",
+        "Cat\u00e9gorie:Portail:Logiciels libres/Articles li\u00e9s",
+        "Cat\u00e9gorie:Portail:Math\u00e9matiques/Articles li\u00e9s",
+        "Cat\u00e9gorie:Portail:Sciences/Articles li\u00e9s",
+        "Cat\u00e9gorie:Portail:Technologies/Articles li\u00e9s",
+        "Cat\u00e9gorie:Projet:Math\u00e9matiques/Articles",
+        "Cat\u00e9gorie:Wikip\u00e9dia:\u00e9bauche informatique",
+        "Cat\u00e9gorie:Wikip\u00e9dia:\u00e9bauche math\u00e9matiques"
+    ],
+    "pageid": "9479654"
+}
